@@ -1,0 +1,3 @@
+libcrypto.so.10 {
+  global: *;
+};
